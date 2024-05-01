@@ -1,5 +1,7 @@
 %% Conexion UART TIVA-MATLAB
 
+
+% AAAAA
 % Definir el baudaje y el puerto serial
 baudrate = 115200;  % Baudaje usado en la Tiva C
 port = 'COM3';    % Puerto serial donde está conectada la Tiva C
